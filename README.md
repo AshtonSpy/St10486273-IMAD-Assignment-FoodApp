@@ -7,3 +7,5 @@ Link for Student St10486273 Assignment repository: https://github.com/AshtonSpy/
 Link for the youtube video: https://youtu.be/PGVMyElUsFI
 
 ![HAW-2025 (31) - lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7031 - Remote Desktop Connection 2025_04_02 18_28_50](https://github.com/user-attachments/assets/8a2c8373-add9-4e75-ad7d-44c97c12c24c)
+
+Link for image in case of error: https://github.com/user-attachments/assets/8a2c8373-add9-4e75-ad7d-44c97c12c24c
